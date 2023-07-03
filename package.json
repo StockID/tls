@@ -1,0 +1,16 @@
+{
+  "name": "http2-tls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http2-tls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "IDxF",
+  "license": "ISC",
+  "dependencies": {
+    "header-generator": "^2.1.30",
+    "user-agents": "^1.0.1428"
+  }
+}
